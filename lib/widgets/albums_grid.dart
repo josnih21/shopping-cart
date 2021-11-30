@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_cart/album.dart';
+import 'package:shopping_cart/models/album.dart';
 import 'package:shopping_cart/pages/cart_page.dart';
 import 'package:shopping_cart/widgets/cart_icon.dart';
 

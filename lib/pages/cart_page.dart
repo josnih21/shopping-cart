@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_cart/album.dart';
+import 'package:shopping_cart/models/album.dart';
 
 class CartPage extends StatefulWidget {
   final List<Album> cart;

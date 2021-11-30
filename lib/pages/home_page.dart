@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_cart/album.dart';
+import 'package:shopping_cart/models/album.dart';
 import 'package:shopping_cart/widgets/albums_grid.dart';
 
 class HomePage extends StatefulWidget {
